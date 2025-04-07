@@ -12,7 +12,7 @@
 <li>⭐ TailwindCSS</li>
 
 # Ekran Görüntüsü 🎥
-<img src="udemig-auth.gif" width="auto">    
+<video src="udemig-auth.gif" width="auto">    
 
 # İletişim 📩
 yunusemreoral@hotmail.com.tr
